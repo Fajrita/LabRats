@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26b1b907fea162a4199830becc746426, type: 3}
+  m_Name: SubTileList
+  m_EditorClassIdentifier: 
+  Subtitles:
+  - Pumped-Up Rats
+  - Teenage Mutant DNA Rats
+  - Random Rodent Rumble
+  - Super Smash Rats
+  - Brawl
+  - Rabid Radiopowered Rats Stadium
+  - Ultimate Smash Rabid Radiopowered Rats Stadium 2.5 HD 4K "The revenge of the
+    Ancient Rats" REMAKE
+  - Nuclear Power Rats
+  - Ultimate Radioactive Rats
+  - Ultimate Rats Super Secret
+  - Chemical Rats Arena
+  - Ratolium
+  - Rattheon
+  - Royale
+  - Rats V/S Radiation
+  - Ultimate Lab Fighting Arena
+  - Fluke
+  - Fluke
+  - Fluke

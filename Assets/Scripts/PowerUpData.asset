@@ -1,0 +1,433 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b23cd3f4282501845bce9585a3d55b51, type: 3}
+  m_Name: PowerUpData
+  m_EditorClassIdentifier: 
+  powersList:
+  - name: Rat
+    iD: 0
+    damage: 10
+    speed: 300
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 279996322, guid: c993a39e2bdee8f4f8a21bca4011c910, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: e052fb786ca06ca42ad573b36402ffb8, type: 2}
+    colliderSize: {x: 1.2, y: 0.3}
+    colliderOffset: {x: 0, y: -0.39}
+    kbForce: {x: 2, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 0.5
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: b84644ac5c26d1d419c7544fa22b9a3f, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: Giraffe
+    iD: 1
+    damage: 20
+    speed: 200
+    jumpForce: 15
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 253127459, guid: a6a76464f94a3b546984de32182c8bc1, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 700e1f4645cf0e24b80746ceaabd6da4, type: 2}
+    colliderSize: {x: 2.7, y: 0.55}
+    colliderOffset: {x: -0.16, y: -2.09}
+    kbForce: {x: 8, y: 5}
+    kbTotalTime: 0.2
+    attackCooldown: 1.5
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 8c423d1e9351377479d5d51e5712525e, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.5
+  - name: FireRat
+    iD: 2
+    damage: 10
+    speed: 300
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1120448733, guid: aecbd1ef0368ec7419cf388f78131f87, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: ffad82a8bd6ae424897018ad04302c04, type: 2}
+    colliderSize: {x: 1.2, y: 0.3}
+    colliderOffset: {x: 0, y: -0.89}
+    kbForce: {x: 2, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 1
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 8300000, guid: 0a05dd13e68fc804280ebf2c8ad6f4a6, type: 3}
+    attackAudioClip: {fileID: 8300000, guid: fe8f211b42acc0841874688b34c6d18f, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: IceRat
+    iD: 3
+    damage: 15
+    speed: 300
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1917967751, guid: 94feaee6f4bf2fb4985d36418629840a, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 0d3dc4c5f0889d640bb8c46dda459d5d, type: 2}
+    colliderSize: {x: 1.39, y: 0.3}
+    colliderOffset: {x: 0.1, y: -0.54}
+    kbForce: {x: 0, y: 0}
+    kbTotalTime: 0.2
+    attackCooldown: 0.7
+    powerProyectil: {fileID: 2622241090472428292, guid: a86603551095481429c76434bb6f54e8, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 9d9be6f3febd8614798c0641cb9a4201, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: SlothRat
+    iD: 4
+    damage: 30
+    speed: 125
+    jumpForce: 0
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1917967751, guid: 94feaee6f4bf2fb4985d36418629840a, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: abe51d2627f472d4d90468db59306b18, type: 2}
+    colliderSize: {x: 1.56, y: 0.3}
+    colliderOffset: {x: 0, y: -0.74}
+    kbForce: {x: 5, y: 0}
+    kbTotalTime: 0.2
+    attackCooldown: 1.5
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 253f46f7a271bf1428e77d53568dd1db, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.2
+  - name: FrogRat
+    iD: 5
+    damage: 15
+    speed: 260
+    jumpForce: 35
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1241647298, guid: 174705f9be8b199459497c2bbc95c9e7, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 3ae2ac7334b21ff43ae5a9ef3b93d8ea, type: 2}
+    colliderSize: {x: 1.44, y: 0.3}
+    colliderOffset: {x: 0, y: -0.48}
+    kbForce: {x: 6, y: 0}
+    kbTotalTime: 0.2
+    attackCooldown: 1.1
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: c7864d1905c246c47847525810a65249, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: ShroomRat
+    iD: 6
+    damage: 11
+    speed: 220
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1241647298, guid: 174705f9be8b199459497c2bbc95c9e7, type: 3}
+    uiSprite: {fileID: 381369448, guid: 81b23a6c6b340da43bfbd8ab376be49a, type: 3}
+    controller: {fileID: 9100000, guid: f12f66171838b584588bb2b3c6cbe31a, type: 2}
+    colliderSize: {x: 1.4, y: 0.3}
+    colliderOffset: {x: 0.04, y: -0.76}
+    kbForce: {x: 2, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 0.9
+    powerProyectil: {fileID: 6734717599068083299, guid: b2730c3f4cb8b3b47a9e007e4f2b7b62, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: cfd7f5dd5b90ba643bcae687411b12bc, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.2
+  - name: RealRat
+    iD: 7
+    damage: 20
+    speed: 300
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: -3189433, guid: 8398a8b7143f05f47a70c492379cdabb, type: 3}
+    uiSprite: {fileID: 381369448, guid: 81b23a6c6b340da43bfbd8ab376be49a, type: 3}
+    controller: {fileID: 9100000, guid: ff67f2bbb7e13af41ba43f0ea2577330, type: 2}
+    colliderSize: {x: 1.36, y: 0.3}
+    colliderOffset: {x: -0.09, y: -0.49}
+    kbForce: {x: 3, y: 3}
+    kbTotalTime: 0.2
+    attackCooldown: 0.7
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: b84644ac5c26d1d419c7544fa22b9a3f, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: RatKing
+    iD: 8
+    damage: 10
+    speed: 250
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 21300000, guid: 978e4ef761170de4cbac29188f76fbae, type: 3}
+    uiSprite: {fileID: 381369448, guid: 81b23a6c6b340da43bfbd8ab376be49a, type: 3}
+    controller: {fileID: 9100000, guid: 5b68975cb701af641a11d2e534e8e919, type: 2}
+    colliderSize: {x: 1.86, y: 0.3}
+    colliderOffset: {x: 0, y: -1}
+    kbForce: {x: 10, y: 5}
+    kbTotalTime: 0.2
+    attackCooldown: 1
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 8300000, guid: 7301f2df22a795e4884c4d85566ba8ee, type: 3}
+    attackAudioClip: {fileID: 0}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: CowRat
+    iD: 9
+    damage: 35
+    speed: 200
+    jumpForce: 0
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1347568076, guid: 5aa7d0db64957ca489b5720b27b4cde1, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: f4a0a6fc99459bb4a99dabd596e6bc44, type: 2}
+    colliderSize: {x: 2.43, y: 0.3}
+    colliderOffset: {x: -0.09, y: -1.76}
+    kbForce: {x: 10, y: 10}
+    kbTotalTime: 0.2
+    attackCooldown: 1.3
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: bbe620178bb79a14ea4b5e22619a11b2, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.2
+  - name: LaserRat
+    iD: 10
+    damage: 16
+    speed: 250
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: -1641862077, guid: 0b014c0006810cf46be070d8cbd76d0f, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 646eb8d20fa8fa9448f44d2e51d0e11d, type: 2}
+    colliderSize: {x: 1.41, y: 0.3}
+    colliderOffset: {x: -0.09, y: -0.57}
+    kbForce: {x: 0, y: 0}
+    kbTotalTime: 0.2
+    attackCooldown: 0.3
+    powerProyectil: {fileID: 1943696078888675567, guid: ce7d1e234e852c749a0f91569ee06b13, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: fe002052524d1c545a8ac3d2d97e57ac, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: MotoRat
+    iD: 11
+    damage: 12
+    speed: 380
+    jumpForce: 20
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1322127048, guid: dd7b670cb1959f542a4c71b62d90f333, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 57cc4bf93b97c7d49a1fd415fa5474f4, type: 2}
+    colliderSize: {x: 2.56, y: 0.3}
+    colliderOffset: {x: -0.09, y: -1}
+    kbForce: {x: 8, y: 1}
+    kbTotalTime: 0.2
+    attackCooldown: 0.9
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 042a8f1261e2ef448ba429aa50a412db, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: EscaraRat
+    iD: 12
+    damage: 25
+    speed: 200
+    jumpForce: 0
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: -1844746438, guid: 08252f402440bd549b7bd6b930ee4ce6, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 5ad35d18a7130c74585e38626d0fa11d, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: -0.09, y: -1}
+    kbForce: {x: 1, y: 25}
+    kbTotalTime: 0.2
+    attackCooldown: 1.5
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: c31b16dbdbd5505408b358a9ad5b2fa4, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.4
+  - name: RabiaRata
+    iD: 13
+    damage: 30
+    speed: 315
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: -1219851578, guid: 922b2ffd81109d44988eec6888f6242b, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: 789353304a68477428738634a0540eb4, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: 0.07, y: -0.4}
+    kbForce: {x: 4, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 0.6
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: b84644ac5c26d1d419c7544fa22b9a3f, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 1e2c08fad9b18a749afbd59c9893357b, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: TrollRat
+    iD: 14
+    damage: 30
+    speed: 215
+    jumpForce: 27
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: -1506069709, guid: 972b959455f901e409e6d56a934e6a6a, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: c117560dbc76bf445987c6efa371f4ea, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: -0.06, y: -1.2}
+    kbForce: {x: 5, y: 5}
+    kbTotalTime: 0.2
+    attackCooldown: 1.3
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 89323e881e514244c99eb1315d68a40e, type: 3}
+    damageAudioClip: {fileID: 8300000, guid: 2f2a237dd069c044d8916a07088a67d4, type: 3}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: EagleRat
+    iD: 15
+    damage: 30
+    speed: 250
+    jumpForce: 10
+    extraJumps: 100
+    gravityScale: 3
+    sprite: {fileID: -520559194, guid: 22d47f39b95b05c498d82ed7f930145d, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: b83f8bda85117ed4ab6da1d285910425, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: -0.06, y: -1.2}
+    kbForce: {x: 5, y: 5}
+    kbTotalTime: 0.2
+    attackCooldown: 0.7
+    powerProyectil: {fileID: 0}
+    isShooter: 0
+    iddleAudioClip: {fileID: 8300000, guid: f486471fe61eb474997215581001c55c, type: 3}
+    attackAudioClip: {fileID: 0}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: ExtintorRat
+    iD: 16
+    damage: 15
+    speed: 260
+    jumpForce: 25
+    extraJumps: 0
+    gravityScale: 13
+    sprite: {fileID: -992553669, guid: c861c659b98bbe5479e6e6fa9edc54db, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: edba7e2223e356148b78e0305d2db754, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: 0, y: -0.43}
+    kbForce: {x: 6, y: 0}
+    kbTotalTime: 0.2
+    attackCooldown: 0.7
+    powerProyectil: {fileID: 1509064146476331244, guid: 7647aabbacd843448823b86608773ff4, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 6e5845a778f86e5468f1216925dce285, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: DoveRat
+    iD: 17
+    damage: 15
+    speed: 260
+    jumpForce: 9
+    extraJumps: 15
+    gravityScale: 3
+    sprite: {fileID: 145675215, guid: ddd05f3981008ed4485cd2a215f0ed59, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: a96f7c679e4ad8b478f49c65167ec359, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: 0, y: -0.43}
+    kbForce: {x: 2, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 0.85
+    powerProyectil: {fileID: 2954095562961475731, guid: 61f2ad06427fabf4f9b4462e275c5d36, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 0}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0
+  - name: LlamaRat
+    iD: 18
+    damage: 20
+    speed: 200
+    jumpForce: 22
+    extraJumps: 0
+    gravityScale: 10
+    sprite: {fileID: 1211319903, guid: c806a916ac81a934f8cd4da82628a22e, type: 3}
+    uiSprite: {fileID: 0}
+    controller: {fileID: 9100000, guid: e3565982a046dd14f8f19f2a1c9312b5, type: 2}
+    colliderSize: {x: 1.35, y: 0.3}
+    colliderOffset: {x: -0.46, y: -1.12}
+    kbForce: {x: 3, y: 2}
+    kbTotalTime: 0.2
+    attackCooldown: 0.8
+    powerProyectil: {fileID: 3787227376473794888, guid: 59fbd6bf02b878d4598265af6ed22fdd, type: 3}
+    isShooter: 1
+    iddleAudioClip: {fileID: 0}
+    attackAudioClip: {fileID: 8300000, guid: 74584c843587ac14e835d137e39e9215, type: 3}
+    damageAudioClip: {fileID: 0}
+    effectAudioClip: {fileID: 0}
+    stopMovingTime: 0.2

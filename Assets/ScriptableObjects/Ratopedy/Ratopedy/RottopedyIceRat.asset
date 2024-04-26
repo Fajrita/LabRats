@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RottopedyIceRat
+  m_EditorClassIdentifier: 
+  name: Ice Rat  -Frosti-
+  damage: 15
+  jumpForce: Normal
+  speed: 30
+  ratDescription: Icycold rat capable of condensing the air.
+  attackDescription: It exhales a cloud of ice the size of itself.
+  animator: {fileID: 9100000, guid: 0d3dc4c5f0889d640bb8c46dda459d5d, type: 2}
+  sprite: {fileID: 1917967751, guid: 94feaee6f4bf2fb4985d36418629840a, type: 3}

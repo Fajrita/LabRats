@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: new RatToShow 1
+  m_EditorClassIdentifier: 
+  name: Fire Extinguisher                -Use in case of accident-
+  damage: 15
+  jumpForce: Normal
+  speed: 26
+  ratDescription: What a strange object moder nature chose to give to this rat.
+  attackDescription: It strikes with its body. spits foam  clouds.
+  animator: {fileID: 0}
+  sprite: {fileID: -992553669, guid: c861c659b98bbe5479e6e6fa9edc54db, type: 3}

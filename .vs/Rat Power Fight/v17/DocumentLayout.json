@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\rat power fight\\assets\\scripts\\enemy\\npchealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\npchealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\rat power fight\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\rat power fight\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\rat power fight\\assets\\scripts\\enemy\\findtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\findtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ratopedy\\ratopedymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ratopedy\\ratopedymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\buttons managers\\mainbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\buttons managers\\mainbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\winneramountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\winneramountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\buttons managers\\ratopedybuttonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\buttons managers\\ratopedybuttonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|c:\\users\\ffajr\\archivos\\unity\\rat power fight\\assets\\scripts\\ui_scenas\\buttons managers\\selectbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\buttons managers\\selectbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\buttons managers\\startbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\buttons managers\\startbuttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\subtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scriptableobjects\\subtitlelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptableobjects\\subtitlelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scripts\\ui_scenas\\fight ui\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui_scenas\\fight ui\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\assets\\scriptableobjects\\uiinitialratselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88564EE1-01F2-C8FA-F261-FDE76A9B9A8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptableobjects\\uiinitialratselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:00:17.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAwwMwAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:00:10.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPCHealth.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Enemy\\NPCHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\NPCHealth.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Enemy\\NPCHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\NPCHealth.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAwwMkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:00:04.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindTarget.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Enemy\\FindTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FindTarget.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Enemy\\FindTarget.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FindTarget.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAkwOYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T00:59:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\MainButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\MainButtonManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\MainButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\MainButtonManager.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAUwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:11:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RatopedyManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Ratopedy\\RatopedyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ratopedy\\RatopedyManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\Ratopedy\\RatopedyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ratopedy\\RatopedyManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:09:44.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RatopedyButtonsManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\RatopedyButtonsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\RatopedyButtonsManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\RatopedyButtonsManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\RatopedyButtonsManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwCkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:08:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\StartButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\StartButtonManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\StartButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\StartButtonManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:26:21.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subtitle.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Subtitle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Subtitle.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Subtitle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Subtitle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:56:14.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UIInitialRatSelector.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\ScriptableObjects\\UIInitialRatSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptableObjects\\UIInitialRatSelector.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\ScriptableObjects\\UIInitialRatSelector.cs",
+              "RelativeToolTip": "Assets\\ScriptableObjects\\UIInitialRatSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:41:39.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubTitleList.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\ScriptableObjects\\SubTitleList.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptableObjects\\SubTitleList.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\ScriptableObjects\\SubTitleList.cs",
+              "RelativeToolTip": "Assets\\ScriptableObjects\\SubTitleList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:40:46.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ranking.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Ranking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Ranking.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Ranking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Ranking.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:50:47.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelectButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\SelectButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\SelectButtonManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Buttons Managers\\SelectButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Buttons Managers\\SelectButtonManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:05:11.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Fight UI\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Fight UI\\Timer.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Fight UI\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Fight UI\\Timer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:48:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Selector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\Selector.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\Selector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\Selector.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowG4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:43:53.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinnerAmountManager.cs",
+              "DocumentMoniker": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\WinnerAmountManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI_Scenas\\WinnerAmountManager.cs",
+              "ToolTip": "C:\\Users\\ffajr\\Archivos\\Unity\\Rat Power Fight\\Assets\\Scripts\\UI_Scenas\\WinnerAmountManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI_Scenas\\WinnerAmountManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:45:46.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

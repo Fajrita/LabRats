@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RattopedyRat
+  m_EditorClassIdentifier: 
+  name: Rat
+  damage: 10
+  jumpForce: Normal
+  speed: 30
+  ratDescription: Common laboratory rat ready for genetic experiments.
+  attackDescription: Short distance fast bite.
+  animator: {fileID: 9100000, guid: e052fb786ca06ca42ad573b36402ffb8, type: 2}
+  sprite: {fileID: 279996322, guid: c993a39e2bdee8f4f8a21bca4011c910, type: 3}

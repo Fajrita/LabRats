@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RattopedyJiraffe
+  m_EditorClassIdentifier: 
+  name: Giraffe Rat  -Armando-
+  damage: 20
+  jumpForce: Low
+  speed: 20
+  ratDescription: It possesses a very flexible and strong neck. Has long legs too.
+  attackDescription: It plants its long legs and crushes the enemy with its head 
+    inflicting great damage.
+  animator: {fileID: 9100000, guid: 700e1f4645cf0e24b80746ceaabd6da4, type: 2}
+  sprite: {fileID: 21300000, guid: 600706a28b619bd40b5611266d2b65d4, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RattopedyLaserRat
+  m_EditorClassIdentifier: 
+  name: Laser Rat  -Scott-
+  damage: 16
+  jumpForce: Normal
+  speed: 25
+  ratDescription: Incredible X Mutation. Almost like something out of a comic book.
+  attackDescription: Shoots lasers from its eyes.
+  animator: {fileID: 0}
+  sprite: {fileID: -1641862077, guid: 0b014c0006810cf46be070d8cbd76d0f, type: 3}

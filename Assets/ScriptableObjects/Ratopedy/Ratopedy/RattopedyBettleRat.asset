@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RattopedyBettleRat
+  m_EditorClassIdentifier: 
+  name: Bettle Rat  -Hercules-
+  damage: 25
+  jumpForce: None
+  speed: 20
+  ratDescription: Has a sturdy shell that prevents it from jumping but has a lot
+    of strengh.
+  attackDescription: It tosses his enemies into the air with its horn.
+  animator: {fileID: 0}
+  sprite: {fileID: -1844746438, guid: 08252f402440bd549b7bd6b930ee4ce6, type: 3}

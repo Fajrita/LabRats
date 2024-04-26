@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0a7ec3116c16b4794eea8dd287d059, type: 3}
+  m_Name: PlayerRats
+  m_EditorClassIdentifier: 
+  playersRats:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playersRatsCtrls:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playerColor:
+  - {fileID: 21300000, guid: 50ef8607804d6a04bbd6f9bb30320d37, type: 3}
+  - {fileID: 21300000, guid: c310b77f9cce5784fa63e3f88d0975e9, type: 3}
+  - {fileID: 21300000, guid: 2c005f27b230202458023ae42b4a89a1, type: 3}
+  - {fileID: 21300000, guid: 6094fcd02431a824aa526f8d911d9371, type: 3}
+  playerKillColor:
+  - {fileID: 21300000, guid: dffb980c0ca2fcc4e86c4759c44e0d9c, type: 3}
+  - {fileID: 21300000, guid: 4114bd8be1479324bb2ea5dc25d5384c, type: 3}
+  - {fileID: 21300000, guid: 265119bafc9f1e64caa1556e13d4c773, type: 3}
+  - {fileID: 21300000, guid: 3ae154645e30ae040a7e5e3b7ae0005a, type: 3}
+  playerFollow:
+  - {fileID: 21300000, guid: adad147369cdb154e996c0dfa4e41d87, type: 3}
+  - {fileID: 21300000, guid: 40d8719af316e61409ba3055dd8a358b, type: 3}
+  - {fileID: 21300000, guid: d53a28e54f8b0794788e0f58ee640cab, type: 3}
+  - {fileID: 21300000, guid: 2750187d96f01a84ba08d67883445025, type: 3}

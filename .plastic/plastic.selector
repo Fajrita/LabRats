@@ -1,0 +1,4 @@
+repository "Rat Power Fight@FrancoLongo@cloud"
+  path "/"
+    br "/main"
+    co "/main"

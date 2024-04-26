@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3444a989dfed5e54bb4d5b5c1b0ef294, type: 3}
+  m_Name: RattopedyFrogRat
+  m_EditorClassIdentifier: 
+  name: Frog Rat  -Licko-
+  damage: 15
+  jumpForce: Very high
+  speed: 26
+  ratDescription: With its legs, it jumps very high and has a tongue three times
+    larger than its tail.
+  attackDescription: Strikes straight with its tongue.
+  animator: {fileID: 9100000, guid: 3ae2ac7334b21ff43ae5a9ef3b93d8ea, type: 2}
+  sprite: {fileID: 1241647298, guid: 174705f9be8b199459497c2bbc95c9e7, type: 3}
